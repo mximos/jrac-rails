@@ -6,9 +6,9 @@ require 'jrac/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "jrac-rails"
   spec.version       = Jrac::Rails::VERSION
-  spec.authors       = ["Aloha Gigmark"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = %q{TODO: Write a gem description}
+  spec.authors       = ["Sushil Damdhere"]
+  spec.email         = ["sushildamdhere@gmail.com"]
+  spec.description   = %q{ruby gem for popular jquery plugin jrac}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
   spec.license       = "MIT"
